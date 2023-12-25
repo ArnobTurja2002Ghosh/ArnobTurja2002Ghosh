@@ -27,11 +27,13 @@ According to John Beames, "अ is pronounced in Sanskrit and in nearly all the m
 Look at the amount of confusion in the very first letter of the name! One particular sound that can be produced from "a", "u" and "o" of the English alphabet!
 This is where ISO-15919 gives me the confidence in the spelling of my name - both the अ and অ are romanized to "a" - so I know I am not spelling it illogically to how it is pronounced - this is an international standard of transliteration.
 
+In Vedic Sanskrit, the small vertical line above the letter अ is for the svarita tone. Yes, there are tones in Sanskrit - 4 tones: udatta, anudatta, svarita and dirgha svarita. Vedic Sanskrit usually marks these tones; for example: anudatta is marked by an underline (र्ण॒). If a letter is not marked in Vedic Sanskrit, it has udatta tone.
+
 ## R
 The র exists in my name in the form of what is called রেফ ref. What I find interesting about ref is that both Beames and Halhed wrote about how র followed by a consonant takes the form of a ref, but none of them mentions the word "ref" even once! Infact Halhed went as far as to calling the ref symbol "arko pholaa" (page 20)! Among my readings, the earliest text that mentions the word "রেফ" ("ref") is Barnaparichay 2nd part by Ishwar Chandra Vidyasagar. Interesting but I am not going to any type of conclusion from here and this part needs a bit more research from my side.
 
 ## N
-Supposed to be a retroflex nasal (ɳ) for the letter ণ but in modern Bengali it is almost always pronounced the same as ন (n) according to the [wikipedia](https://en.wikipedia.org/wiki/Bengali_alphabet#cite_ref-30)
+Supposed to be a retroflex nasal (ɳ) for the letter ণ but in modern Bengali it is almost always pronounced the same as ন (n) according to the [wikipedia](https://en.wikipedia.org/wiki/Bengali_alphabet#cite_ref-30) 
 
 ## O
 The sound contributed by this letter is called schwa. There was a consonant cluster of "R" and "N" before this. 
