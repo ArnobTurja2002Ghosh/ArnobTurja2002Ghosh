@@ -30,7 +30,7 @@ This is where ISO-15919 gives me the confidence in the spelling of my name - bot
 ## R
 
 ## N
-Supposed to be a retroflex nasal (ɳ) for the letter ণ but in modern Bengali it is almost always pronounced the same as ন (n) according to the wikipedia[https://en.wikipedia.org/wiki/Bengali_alphabet#cite_ref-30].
+Supposed to be a retroflex nasal (ɳ) for the letter ণ but in modern Bengali it is almost always pronounced the same as ন (n) according to the [wikipedia](https://en.wikipedia.org/wiki/Bengali_alphabet#cite_ref-30)
 ## O
 The sound contributed by this letter is called schwa. There was a consonant cluster of "R" and "N" before this. 
 In Bengali language a consonant cluster usually follows a close-mid back rounded vowel (o), and my name is no exception.
