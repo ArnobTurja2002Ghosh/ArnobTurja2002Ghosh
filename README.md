@@ -5,11 +5,15 @@ I am a Bengali.
 Favourite Bengali writer: Michael Madhusudan Dutt
 
 Favourite work by him: Meghnad Badh Kavya (Bengali: মেঘনাদবধ কাব্য; English: The Slaying of Meghnada)
-
-<figure>
-<blockquote> "Among monarchs, your elder brother is to be praised, best of RākṢasas, a sea of glory in this world. Ah, who owns such riches on the surface of this earth!" </blockquote>
-<figcaption> (Canto 6 "The Slaying". <cite> The Slaying of Meghanada: A Ramayana from colonial Bengal </cite>. Michael Madhusudan Datta. Translated by Clinton B. Seely. Oxford University Press) </figcaption>
-</figure>
+<style>
+cite { 
+  font-style: italic;
+}
+</style>
+> "Among monarchs, your elder brother is to be praised, best of RākṢasas, a sea of glory in this world. Ah, who owns such riches on the surface of this earth!" </blockquote>
+<p>
+  (Canto 6 "The Slaying". <cite> The Slaying of Meghanada: A Ramayana from colonial Bengal </cite>. Michael Madhusudan Datta. Translated by Clinton B. Seely. Oxford University Press) 
+</p>
 
 # How to pronounce my name
 
