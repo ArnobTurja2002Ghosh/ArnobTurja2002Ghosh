@@ -63,4 +63,13 @@ Who was the fraud? Dube? I am not saying that a professor cannot do something th
 I started studying about metallurgy with the unrealistic goal to be able to read Dube's research papers someday and that is when I came across a portal called [vedic heritage](https://vedicheritage.gov.in/) initiated under the aegis of Ministry of Culture, Government of India. Guess what I found - a piece of writing that had been published in 2015 in Financial Chronicle - written by Dr. R K Dube!
 In the second paragraph of the paper he wrote a line similar to that in that ISBN 81-87053-56-7 book: "Another Rigveda hymn (8.26.18) states that the path of the river Sindhu contains gold, and the word used for it is *hiranyavartanih*." Hymn-26 of the same, my favourite book-8. I checked and yes, it is not a wrong reference. I do not know what happened in ISBN: 81-87053-56-7 - may be some typing mistake? But yes, then I read the whole hymn instead of that one verse, and Rigveda book-8 hymn-26 - a hymn dedicated to the Asvins - became my favourite part of all the Sanskrit texts.
 
-I guess all these started from metallurgy and can you really blame me for going this far - from trying to "expose" a respectable professor (my apologies) to discovering a favourite hymn in a shruti - just for a book about metallurgy? Did you know? H. H. Wilson, the first person to translate Rigveda to English language was attached to the mint at Calcutta, just because of his vast knowledge about metallurgy!
+I guess all these started from metallurgy and can you really blame me for going this far - from trying to "expose" a respectable professor (my apologies) to discovering a favourite hymn in a shruti - just for a book about metallurgy? Did you know? H. H. Wilson, the first person to translate Rigveda to English language was attached to the mint at Calcutta, because of his vast knowledge about metallurgy!
+
+# Water of the Firmament - Sea of Heaven
+I read two versions of Rigveda 8.26 - one translated by H.H. Wilson and another by T.H. Griffith. One verse interested me more than the others in the hymn - no, not 8.26.18 but the one preceding it - 8.26.17.
+I believe this was because of the amount of Christian reference I saw in both translations of the same verse.
+> Whether, immortal (Aśvins), you rejoice in the water of the firmament, or in the dwelling of theworshipper hear this my (invocation).
+(H.H. Wilson)
+> Be ye in yonder sea of heaven, or joying in the home of food,
+>     Listen to me, Immortal Ones.
+(T.H. Griffith)
