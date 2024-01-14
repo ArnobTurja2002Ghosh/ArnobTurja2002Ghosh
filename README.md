@@ -10,7 +10,7 @@ Favourite work by him: Meghnad Badh Kavya (Bengali: মেঘনাদবধ ক
 
 (Canto 6 "The Slaying". *The Slaying of Meghanada: A Ramayana from colonial Bengal*. Michael Madhusudan Datta. Translated by Clinton B. Seely. Oxford University Press) 
 
-Favourite film that is set in Bengal: [Memories in March](https://londonindianfilmfestival.co.uk/memories-in-march/)
+Favourite film: [Memories in March](https://londonindianfilmfestival.co.uk/memories-in-march/)
 
 # How to pronounce my name
 
