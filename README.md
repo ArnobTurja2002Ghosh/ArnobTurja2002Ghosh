@@ -67,7 +67,7 @@ In the second paragraph of the paper he wrote a line similar to that in that ISB
 
 I guess all these started from metallurgy and can you really blame me for going this far - from trying to "expose" a respectable professor (my apologies) to discovering a favourite hymn in a shruti - just for a book about metallurgy? Did you know? H. H. Wilson, the first person to translate Rigveda to English language was attached to the mint at Calcutta, because of his vast knowledge about metallurgy!
 
-# Water of the Firmament - Sea of Heaven
+## Water of the Firmament - Sea of Heaven
 I read two versions of Rigveda 8.26 - one translated by H.H. Wilson and another by T.H. Griffith. One verse interested me more than the others in the hymn; no, not 8.26.18 but the one preceding it - 8.26.17.
 I believe this was because of the amount of Abrahamic reference I saw in both translations of the same verse.
 
