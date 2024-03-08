@@ -12,7 +12,7 @@ Favourite work by him: Meghnad Badh Kavya (Bengali: মেঘনাদবধ ক
 
 Favourite film: [Memories in March](https://londonindianfilmfestival.co.uk/memories-in-march/)
 
-[How to pronuounce my name](https://github.com/ArnobTurja2002Ghosh/ArnobTurja2002Ghosh/blob/main/Pronunciation.md) showing of my interest in phonetics and languages.
+[How to pronuounce my name](https://github.com/ArnobTurja2002Ghosh/ArnobTurja2002Ghosh/blob/main/Pronunciation.md) showing off my interest in phonetics and languages.
 
 [My interest in Sanskrit, Rigveda and ancient India](https://github.com/ArnobTurja2002Ghosh/ArnobTurja2002Ghosh/blob/main/Rgveda.md)
 
