@@ -2,7 +2,7 @@ I am Arnob.
 
 I go by the pronouns he/him.
 
-I am an undergraduate Computer Science student at Memorial University of Newfoundland.
+My website: https://arnobturja2002ghosh.github.io/
 
 [How to pronuounce my name](https://github.com/ArnobTurja2002Ghosh/ArnobTurja2002Ghosh/blob/main/Pronunciation.md) showing off my interest in phonetics and languages.
 
