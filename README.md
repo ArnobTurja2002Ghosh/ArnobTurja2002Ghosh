@@ -27,4 +27,5 @@ A few of my projects:
 - [Bouncing Shapes](https://github.com/ArnobTurja2002Ghosh/BouncingShapes) - my first C++ project
   - inspired from a Youtube tutorial. Link of the tutorial is in the README of the repository.
 - [Catalina430](https://github.com/ArnobTurja2002Ghosh/Catalina430)
+  - A C++ project. 
   - Modification of Geometry Wars by the Github user [Catalina430](https://github.com/Catalina430)
