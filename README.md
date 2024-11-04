@@ -5,6 +5,10 @@ I go by the pronouns he/him.
 My website: https://arnobturja2002ghosh.github.io/
 
 A few of my projects:
+- [JavaSwing1](https://github.com/ArnobTurja2002Ghosh/JavaSwing1)
+  - Created using Java
+  - Project that allows you to paint a grid with shapes of different colors
+  - Further information (with illustrating images) about the project is in the README of the repository
 - [Chomp](https://github.com/ArnobTurja2002Ghosh/Chomp)
   - Created using Java
   - Instructions like how to run the program is provided in Instructions.txt in the repository
