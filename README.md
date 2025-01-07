@@ -5,6 +5,9 @@ I go by the pronouns he/him.
 My website: https://arnobturja2002ghosh.github.io/
 
 A few of my projects:
+- [react-mern--introduction-to-react-router](https://github.com/ArnobTurja2002Ghosh/react-mern-batch-3-class-7-introduction-to-react-router)
+  - Created using React
+  - Visit [this link](https://iridescent-pavlova-20c187.netlify.app/) where the project is being hosted, to get a quick idea about the project, instead of reading my wordy descriptions.
 - [JavaSwing1](https://github.com/ArnobTurja2002Ghosh/JavaSwing1)
   - Created using Java
   - Project that allows you to paint a grid with shapes of different colors
