@@ -5,8 +5,13 @@ I go by the pronouns he/him.
 My website: https://arnobturja2002ghosh.github.io/
 
 A few of my projects:
+- [Travel Planner App](https://github.com/mohdalibn/travel-planner-app/)
+  - Created using Flutter
+  - Collaborators: [Arnob](https://github.com/ArnobTurja2002Ghosh/ArnobTurja2002Ghosh), [Ali](https://github.com/mohdalibn/), [Arunav](https://github.com/ARNAB814) and [Libin](https://github.com/XxCaleb-CalebxX)
+  - Private repository. Please contact any of the collaborators for access.
 - [f1](https://github.com/ArnobTurja2002Ghosh/f1)
   - Created using Flutter
+  - Private repository. Please contact me for access.
   - Consists of a list of small discrete projects I was building while learning Flutter
 - [react-mern--introduction-to-react-router](https://github.com/ArnobTurja2002Ghosh/react-mern-batch-3-class-7-introduction-to-react-router)
   - Created using React
