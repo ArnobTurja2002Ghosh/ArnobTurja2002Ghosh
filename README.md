@@ -5,6 +5,9 @@ I go by the pronouns he/him.
 My website: https://arnobturja2002ghosh.github.io/
 
 A few of my projects:
+- [openCVChArUco](https://github.com/ArnobTurja2002Ghosh/openCVChArUco)
+  - Python project
+  - Marker-based computer vision with OpenCV ArUco module
 - [Travel Planner App](https://github.com/mohdalibn/travel-planner-app/)
   - Created using Flutter
   - Collaborators: [Arnob](https://github.com/ArnobTurja2002Ghosh/ArnobTurja2002Ghosh), [Ali](https://github.com/mohdalibn/), [Arunav](https://github.com/ARNAB814) and [Libin](https://github.com/XxCaleb-CalebxX)
