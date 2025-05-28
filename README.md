@@ -4,7 +4,7 @@ I go by the pronouns he/him.
 
 My website: https://arnobturja2002ghosh.github.io/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnobTurja2002Ghosh&layout=donut)](https://github.com/ArnobTurja2002Ghosh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnobTurja2002Ghosh&layout=donut&size_weight=0.1&count_weight=0.9&langs_count=10)](https://github.com/ArnobTurja2002Ghosh)
 
 A few of my projects:
 - [openCVChArUco](https://github.com/ArnobTurja2002Ghosh/openCVChArUco)
