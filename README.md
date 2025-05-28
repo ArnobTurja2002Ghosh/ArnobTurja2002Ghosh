@@ -4,6 +4,8 @@ I go by the pronouns he/him.
 
 My website: https://arnobturja2002ghosh.github.io/
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnobTurja2002Ghosh&layout=donut)](https://github.com/ArnobTurja2002Ghosh)
+
 A few of my projects:
 - [openCVChArUco](https://github.com/ArnobTurja2002Ghosh/openCVChArUco)
   - Python project
