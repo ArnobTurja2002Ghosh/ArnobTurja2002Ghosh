@@ -1,4 +1,4 @@
-<img src="ezgif-57e504ae80b664.gif"/>
+<a href="https://arnobturja2002ghosh.github.io/GArnob/index.html"><img src="ezgif-57e504ae80b664.gif"/></a>
 
 I go by the pronouns he/him.
 
