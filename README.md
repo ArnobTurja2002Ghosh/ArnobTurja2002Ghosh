@@ -11,6 +11,7 @@ A few of my projects:
 - [openCVChArUco](https://github.com/ArnobTurja2002Ghosh/openCVChArUco)
   - Python project
   - Marker-based computer vision with OpenCV ArUco module
+  - [Project Page](https://ArnobTurja2002Ghosh.github.io/openCVChArUco/web)
 - [Travel Planner App](https://github.com/mohdalibn/travel-planner-app/)
   - Created using Flutter
   - Collaborators: [Arnob](https://github.com/ArnobTurja2002Ghosh/ArnobTurja2002Ghosh), [Ali](https://github.com/mohdalibn/), [Arunav](https://github.com/ARNAB814) and [Libin](https://github.com/XxCaleb-CalebxX)
